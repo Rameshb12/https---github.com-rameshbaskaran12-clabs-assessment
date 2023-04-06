@@ -1,0 +1,12 @@
+.navbar {
+    background-color: lightseagreen;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+}
+
+.nav-title {
+    margin-left: 3rem;
+    color: aliceblue;
+    font-weight: 600;
+}

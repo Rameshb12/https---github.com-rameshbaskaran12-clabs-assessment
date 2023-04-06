@@ -1,0 +1,15 @@
+.offcanvas {
+    width: 40%;
+}
+
+.offcanvas-header {
+    background-color: lightseagreen;
+    color: aliceblue;
+}
+
+.button {
+    width: 10rem;
+    height: 3rem;
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
